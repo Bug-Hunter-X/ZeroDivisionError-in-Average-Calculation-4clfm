@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: attempting to divide by zero when calculating the average of a list. The original code lacks error handling for empty input lists. The solution includes a check for emptiness, returning 0 in that case to prevent the ZeroDivisionError.
